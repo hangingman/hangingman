@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
   - FTL, inc
 - 🌱 I’m currently learning ...
-  - seq2seq, machine learning, AWS
+  - Ansible, and some c++ programming with cmake
 
 ![GitHub stat](https://github-readme-stats.vercel.app/api?username=hangingman&show_icons=true&theme=tokyonight)
 
